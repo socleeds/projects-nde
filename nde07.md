@@ -1,7 +1,7 @@
 <table>
 <tr>
 <th align="left">Title of Project</th>
-<td>IoHIT: The Internet of Hideously Insecure Things?</td>
+<td>IoHIT - The Internet of Hideously Insecure Things?</td>
 </tr>
 <tr>
 <th align="left">Project Code</th>
