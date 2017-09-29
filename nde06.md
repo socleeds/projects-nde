@@ -17,7 +17,8 @@
 </tr>
 <tr>
 <th align="left">Areas of Interest</th>
-<td>Software development, data science, open data, visualisation</td>
+<td>Software development, data science, open data, computer graphics,
+visualisation</td>
 </tr>
 <tr>
 <th align="left">Appropriate For</th>
