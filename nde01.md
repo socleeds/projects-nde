@@ -12,7 +12,7 @@
 <td>Nick Efford</td>
 </tr>
 <tr>
-<th align="left">Project Type(s)</th>
+<th align="left">Project Type</th>
 <td>Exploratory Software</td>
 </tr>
 <tr>

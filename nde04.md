@@ -12,8 +12,8 @@
 <td>Nick Efford</td>
 </tr>
 <tr>
-<th align="left">Project Type(s)</th>
-<td>Exploratory Software / Software Product</td>
+<th align="left">Project Types</th>
+<td>Exploratory Software, Software Product, Empirical Investigation</td>
 </tr>
 <tr>
 <th align="left">Areas of Interest</th>
