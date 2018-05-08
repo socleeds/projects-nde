@@ -59,7 +59,7 @@ standardisation in how results of testing are reported.
 ## Proposed Solution
 
 This project would involve research into the popularity, usefulness,
-strengths and weakenesses of existing approaches and tools.  Another key
+strengths and weaknesses of existing approaches and tools.  Another key
 aspect would be the development of a software prototype implementing one or
 more testing techniques.  The ideal prototype would be flexible and
 extensible, providing a framework that allows new techniques to be easily
