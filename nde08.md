@@ -62,6 +62,3 @@ student, this could be a broad-ranging and largely empirical investigation,
 involving small app experiments, or it could be a narrower and much more
 in-depth exploration, involving the development and comparison of
 sophisticated software prototypes.
-
-The deliverable would be a web site, reviewing and comparing the chosen
-options and allowing download of code examples or demos where appropriate.
