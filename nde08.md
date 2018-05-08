@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <th align="left">Prerequisites</th>
-<td>COMP2931</td>
+<td>COMP2811, COMP2931</td>
 </tr>
 </table>
 
