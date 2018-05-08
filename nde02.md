@@ -1,5 +1,9 @@
 <table>
 <tr>
+<th align="left">For Session</th>
+<td>2017/18</td>
+</tr>
+<tr>
 <th align="left">Title of Project</th>
 <td>Tools to Teach Ethical Hacking</td>
 </tr>
