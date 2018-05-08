@@ -17,7 +17,7 @@
 </tr>
 <tr>
 <th align="left">Project Type</th>
-<td>Software Prototype / Empirical Investigation</td>
+<td>Exploratory Software / Empirical Investigation</td>
 </tr>
 <tr>
 <th align="left">Areas of Interest</th>
