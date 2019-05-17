@@ -1,3 +1,5 @@
+# NDE01
+
 <table>
 <tr>
 <th align="left">For Session</th>
@@ -6,10 +8,6 @@
 <tr>
 <th align="left">Title of Project</th>
 <td>Finding Influential Alumni</td>
-</tr>
-<tr>
-<th align="left">Project Code</th>
-<td>NDE01</td>
 </tr>
 <tr>
 <th align="left">Supervisor</th>
@@ -30,7 +28,7 @@ language processing, machine learning (possibly)</td>
 </tr>
 <tr>
 <th align="left">Multiple Projects?</th>
-<td>Possibly</td>
+<td>No</td>
 </tr>
 <tr>
 <th align="left">Prerequisites</th>

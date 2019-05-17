@@ -1,15 +1,13 @@
+# NDE03
+
 <table>
 <tr>
 <th align="left">For Session</th>
 <td>2019/20</td>
 </tr>
 <tr>
-<th align="left">Title of Project</th>
+<th align="left">Theme of Projects</th>
 <td>Automated Discovery of Vulnerabilities</td>
-</tr>
-<tr>
-<th align="left">Project Code</th>
-<td>NDE03</td>
 </tr>
 <tr>
 <th align="left">Supervisor</th>
@@ -34,7 +32,7 @@ web applications</td>
 </tr>
 <tr>
 <th align="left">Prerequisites</th>
-<td>COMP2931, COMP3911</td>
+<td>COMP2911 or COMP2931, COMP3911</td>
 </tr>
 </table>
 
@@ -56,16 +54,18 @@ in isolation from each other, without consideration of how they might work
 as part of suite of tools.  Hence there is generally little or no
 standardisation in how results of testing are reported.
 
-## Proposed Solution
+## Possible Projects
 
-This project would involve research into the popularity, usefulness,
-strengths and weaknesses of existing approaches and tools.  Another key
-aspect would be the development of a software prototype implementing one or
-more testing techniques.  The ideal prototype would be flexible and
-extensible, providing a framework that allows new techniques to be easily
-added, new programming languages to be easily supported, etc.  It would also
-report test results in a useful way and be easily integrated into standard
-software development processes.
+There is scope for more than one project in this area.  Projects might
+include one or more of the following elements:
 
-There is scope for more than one project here - e.g., focusing on different
-categories of vunerability, or different approaches to detecting them.
+* Critical evaluation of existing tools (accuracy, reliability, ease of use, etc)
+
+* Development of a framework for vulnerability analysis, allowing new
+  techniques to be added, new programming languages to be supported, etc
+
+* Integration of vulnerability scanning into software development workflow -
+  e.g., by defining custom tasks for build systems such as Gradle
+
+* Detailed investigation of one particular class of vulnerability and
+  development of prototype software to detect it

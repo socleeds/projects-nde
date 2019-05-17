@@ -1,3 +1,5 @@
+# NDE06
+
 <table>
 <tr>
 <th align="left">For Session</th>
@@ -6,10 +8,6 @@
 <tr>
 <th align="left">Title of Project</th>
 <td>Manipulating, Visualising &amp; Using DEFRA LIDAR Data</td>
-</tr>
-<tr>
-<th align="left">Project Code</th>
-<td>NDE06</td>
 </tr>
 <tr>
 <th align="left">Supervisor</th>

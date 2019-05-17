@@ -1,3 +1,5 @@
+# NDE05
+
 <table>
 <tr>
 <th align="left">For Session</th>
@@ -6,10 +8,6 @@
 <tr>
 <th align="left">Title of Project</th>
 <td>Using Pyglet for Games, Graphics &amp; the Teaching of Programming</td>
-</tr>
-<tr>
-<th align="left">Project Code</th>
-<td>NDE05</td>
 </tr>
 <tr>
 <th align="left">Supervisor</th>

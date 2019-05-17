@@ -1,15 +1,13 @@
+# NDE02
+
 <table>
 <tr>
 <th align="left">For Session</th>
 <td>2018/19</td>
 </tr>
 <tr>
-<th align="left">Title of Project</th>
+<th align="left">Theme of Projects</th>
 <td>Tools to Teach Ethical Hacking</td>
-</tr>
-<tr>
-<th align="left">Project Code</th>
-<td>NDE02</td>
 </tr>
 <tr>
 <th align="left">Supervisor</th>

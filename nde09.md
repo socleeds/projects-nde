@@ -1,15 +1,13 @@
+# NDE09
+
 <table>
 <tr>
 <th align="left">For Session</th>
 <td>2019/20</td>
 </tr>
 <tr>
-<th align="left">Title of Project</th>
-<td>Teaching Object-Oriented Programming Using Visual Simulations</td>
-</tr>
-<tr>
-<th align="left">Project Code</th>
-<td>NDE09</td>
+<th align="left">Theme of Projects</th>
+<td>Teaching Object-Oriented Programming Using Games & Simulations</td>
 </tr>
 <tr>
 <th align="left">Supervisor</th>
@@ -29,11 +27,11 @@
 </tr>
 <tr>
 <th align="left">Multiple Projects?</th>
-<td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <th align="left">Prerequisites</th>
-<td>COMP2931</td>
+<td>COMP1721, COMP2911 or COMP2931</td>
 </tr>
 </table>
 
@@ -53,20 +51,24 @@ small classes, but won't scale to very large classes.  But teaching with
 *simulated* robots, via frameworks such as
 [Robocode](http://robocode.sourceforge.net/), will scale.
 
-## Proposed Solution
+[Games and contests have been found to be useful in increasing learner
+motivation and engagement](https://ioinformatics.org/journal/v10_2016_39_60.pdf),
+so there is value in exploring at how this can be introduced into the teaching
+of object-oriented programming in the first year of degree programmes at Leeds.
 
-This project would explore how simulations could form the basis for teaching
-object-oriented programming principles to students in COMP1721, developing
-software prototypes to demonstrate the approach.
+## Possible Projects
 
-The aforementioned Robocode is a useful baseline here, but note that the
-simulation domain need not be robotics; agent-based or artificial life
-simulations might be equally productive for the purposes of this project.
-Note also that the desired solution should be able to demonstrate a broad
-range of concepts: class relationships such as association and
-aggregation/composition, inheritance, abstract classes, interfaces, inner
-classes, etc.
+* Develop exercises and contests based around Robocode that can be
+  integrated into level 1 teaching of OOP
 
-This could be a Exploratory Software project or a Software Product.  Some
-preliminary investigation will be needed to decide which of these is the most
-appropriate.
+* Explore the use of other simulation domains - e.g., agent-based simulations
+  or artificial life; develop a software framework that students can use,
+  along with exercises or worksheets that can be used in OOP teaching
+
+* Explore how the [libGDX](https://libgdx.badlogicgames.com/) Java game
+  development framework could be used to teach OOP concepts, and development
+  prototype exercises that demonstrate this
+
+* Develop a prototype of a system similar to Microsoft's
+  [Code Hunt](https://www.microsoft.com/en-us/research/project/code-hunt/)
+  coding challenges platform, but Java-based

@@ -1,3 +1,5 @@
+# NDE08
+
 <table>
 <tr>
 <th align="left">For Session</th>
@@ -6,10 +8,6 @@
 <tr>
 <th align="left">Title of Project</th>
 <td>A Critical Evaluation of Cross-Platform Mobile App Development Solutions</td>
-</tr>
-<tr>
-<th align="left">Project Code</th>
-<td>NDE08</td>
 </tr>
 <tr>
 <th align="left">Supervisor</th>

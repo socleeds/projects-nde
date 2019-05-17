@@ -1,15 +1,13 @@
+# NDE04
+
 <table>
 <tr>
 <th align="left">For Session</th>
 <td>2019/20</td>
 </tr>
 <tr>
-<th align="left">Title of Project</th>
+<th align="left">Theme of Projects</th>
 <td>Deriving Civic Benefits From Open Data</td>
-</tr>
-<tr>
-<th align="left">Project Code</th>
-<td>NDE04</td>
 </tr>
 <tr>
 <th align="left">Supervisor</th>
@@ -48,11 +46,10 @@ of open data sources, such as those provided via
 [Data Mill North](https://datamillnorth.org)
 or [data.gov.uk](https://data.gov.uk).
 
-## Proposed Solution
+## Possible Projects
 
-This is not a proposal for a specific project; rather, it is a placeholder
-for a range of possible projects, details to be decided, all involving
-open data and close collaboration with ODI Leeds.
+A range of different projects may be possible, detailed to be decided,
+all involving open data and close collaboration with ODI Leeds.
 
 Please speak to Nick for further information, or see the ODI Leeds web site
 for examples of what they have been up to recently.
