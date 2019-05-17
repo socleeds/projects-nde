@@ -1,7 +1,7 @@
 <table>
 <tr>
 <th align="left">For Session</th>
-<td>2018/19</td>
+<td>2019/20</td>
 </tr>
 <tr>
 <th align="left">Title of Project</th>
@@ -30,7 +30,7 @@ web applications</td>
 </tr>
 <tr>
 <th align="left">Multiple Projects?</th>
-<td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <th align="left">Prerequisites</th>
@@ -66,3 +66,6 @@ extensible, providing a framework that allows new techniques to be easily
 added, new programming languages to be easily supported, etc.  It would also
 report test results in a useful way and be easily integrated into standard
 software development processes.
+
+There is scope for more than one project here - e.g., focusing on different
+categories of vunerability, or different approaches to detecting them.
