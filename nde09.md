@@ -66,7 +66,7 @@ of object-oriented programming in the first year of degree programmes at Leeds.
   along with exercises or worksheets that can be used in OOP teaching
 
 * Explore how the [libGDX](https://libgdx.badlogicgames.com/) Java game
-  development framework could be used to teach OOP concepts, and development
+  development framework could be used to teach OOP concepts, and develop
   prototype exercises that demonstrate this
 
 * Develop a prototype of a system similar to Microsoft's
